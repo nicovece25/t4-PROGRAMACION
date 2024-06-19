@@ -11,7 +11,6 @@ public class ejercicio15B {
             System.out.printf("%d|", array[i]);
 
         }
-        System.out.println();
 
         for (int j = 0; j < array.length - 2; j++) {
 
